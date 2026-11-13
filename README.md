@@ -141,6 +141,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/YuvrajSingh-2006/project/tree/master/0177-nth-highest-salary) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/YuvrajSingh-2006/project/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Queue
 |  |
 | ------- |
