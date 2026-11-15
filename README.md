@@ -16,6 +16,7 @@ i am gonna ride this bike
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -64,6 +65,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
