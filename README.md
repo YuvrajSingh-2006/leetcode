@@ -27,6 +27,7 @@ i am gonna ride this bike
 | ------- |
 | [0027-remove-element](https://github.com/YuvrajSingh-2006/project/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
@@ -113,6 +114,7 @@ i am gonna ride this bike
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
