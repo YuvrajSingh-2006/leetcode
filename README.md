@@ -49,6 +49,7 @@ i am gonna ride this bike
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
@@ -90,6 +91,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
@@ -110,6 +112,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
@@ -142,6 +145,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
