@@ -19,6 +19,7 @@ i am gonna ride this bike
 | [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -43,6 +44,7 @@ i am gonna ride this bike
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -177,4 +179,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
