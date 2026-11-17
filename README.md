@@ -115,6 +115,7 @@ i am gonna ride this bike
 | ------- |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/YuvrajSingh-2006/project/tree/master/0038-count-and-say) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
