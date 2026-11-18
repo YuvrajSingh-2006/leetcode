@@ -16,6 +16,7 @@ i am gonna ride this bike
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ i am gonna ride this bike
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
@@ -113,6 +115,7 @@ i am gonna ride this bike
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/YuvrajSingh-2006/project/tree/master/0038-count-and-say) |
