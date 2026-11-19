@@ -17,6 +17,7 @@ i am gonna ride this bike
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/YuvrajSingh-2006/project/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/YuvrajSingh-2006/project/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
@@ -189,4 +190,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/YuvrajSingh-2006/project/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
