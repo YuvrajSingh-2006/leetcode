@@ -33,6 +33,7 @@ i am gonna ride this bike
 | [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/YuvrajSingh-2006/project/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
@@ -129,6 +130,7 @@ i am gonna ride this bike
 | ------- |
 | [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/YuvrajSingh-2006/project/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -196,4 +198,8 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/YuvrajSingh-2006/project/tree/master/0029-divide-two-integers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
