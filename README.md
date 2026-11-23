@@ -28,6 +28,7 @@ i am gonna ride this bike
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YuvrajSingh-2006/project/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/YuvrajSingh-2006/project/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
@@ -94,6 +95,7 @@ i am gonna ride this bike
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YuvrajSingh-2006/project/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/YuvrajSingh-2006/project/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 ## Stack
@@ -162,6 +164,7 @@ i am gonna ride this bike
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YuvrajSingh-2006/project/tree/master/0011-container-with-most-water) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 ## Database
 |  |
