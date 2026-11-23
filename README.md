@@ -59,6 +59,7 @@ i am gonna ride this bike
 | [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -126,6 +127,7 @@ i am gonna ride this bike
 | [0020-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/YuvrajSingh-2006/project/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
