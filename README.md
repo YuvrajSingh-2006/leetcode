@@ -76,11 +76,13 @@ i am gonna ride this bike
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YuvrajSingh-2006/project/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/YuvrajSingh-2006/project/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YuvrajSingh-2006/project/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YuvrajSingh-2006/project/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/YuvrajSingh-2006/project/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/YuvrajSingh-2006/project/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
