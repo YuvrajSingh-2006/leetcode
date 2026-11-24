@@ -37,6 +37,7 @@ i am gonna ride this bike
 | [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/YuvrajSingh-2006/project/tree/master/0120-triangle) |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
@@ -61,6 +62,7 @@ i am gonna ride this bike
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/YuvrajSingh-2006/project/tree/master/0120-triangle) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
