@@ -36,6 +36,7 @@ i am gonna ride this bike
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/YuvrajSingh-2006/project/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YuvrajSingh-2006/project/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/YuvrajSingh-2006/project/tree/master/0120-triangle) |
@@ -62,6 +63,7 @@ i am gonna ride this bike
 | [0032-longest-valid-parentheses](https://github.com/YuvrajSingh-2006/project/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/YuvrajSingh-2006/project/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/YuvrajSingh-2006/project/tree/master/0120-triangle) |
@@ -125,6 +127,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/YuvrajSingh-2006/project/tree/master/0085-maximal-rectangle) |
 ## String
 |  |
