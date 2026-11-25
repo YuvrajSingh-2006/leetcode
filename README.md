@@ -30,6 +30,7 @@ i am gonna ride this bike
 | ------- |
 | [0011-container-with-most-water](https://github.com/YuvrajSingh-2006/project/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/YuvrajSingh-2006/project/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/YuvrajSingh-2006/project/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/YuvrajSingh-2006/project/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/YuvrajSingh-2006/project/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/YuvrajSingh-2006/project/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ i am gonna ride this bike
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/YuvrajSingh-2006/project/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/YuvrajSingh-2006/project/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
