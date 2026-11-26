@@ -47,6 +47,7 @@ i am gonna ride this bike
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YuvrajSingh-2006/project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -97,6 +98,7 @@ i am gonna ride this bike
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +141,7 @@ i am gonna ride this bike
 | [0038-count-and-say](https://github.com/YuvrajSingh-2006/project/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/YuvrajSingh-2006/project/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
@@ -163,10 +166,12 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/YuvrajSingh-2006/project/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
