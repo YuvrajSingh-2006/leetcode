@@ -139,6 +139,7 @@ i am gonna ride this bike
 | [0038-count-and-say](https://github.com/YuvrajSingh-2006/project/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/YuvrajSingh-2006/project/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/YuvrajSingh-2006/project/tree/master/1096-brace-expansion-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/YuvrajSingh-2006/project/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +158,7 @@ i am gonna ride this bike
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
 | [3360-stone-removal-game](https://github.com/YuvrajSingh-2006/project/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/YuvrajSingh-2006/project/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
