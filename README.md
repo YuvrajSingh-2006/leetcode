@@ -24,6 +24,7 @@ i am gonna ride this bike
 | [0069-sqrtx](https://github.com/YuvrajSingh-2006/project/tree/master/0069-sqrtx) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/YuvrajSingh-2006/project/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -155,6 +156,7 @@ i am gonna ride this bike
 | ------- |
 | [0682-baseball-game](https://github.com/YuvrajSingh-2006/project/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
+| [3360-stone-removal-game](https://github.com/YuvrajSingh-2006/project/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
