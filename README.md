@@ -51,6 +51,7 @@ i am gonna ride this bike
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YuvrajSingh-2006/project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/YuvrajSingh-2006/project/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ i am gonna ride this bike
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/YuvrajSingh-2006/project/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ i am gonna ride this bike
 | ------- |
 | [0011-container-with-most-water](https://github.com/YuvrajSingh-2006/project/tree/master/0011-container-with-most-water) |
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/YuvrajSingh-2006/project/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Database
 |  |
 | ------- |
