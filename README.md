@@ -25,6 +25,7 @@ i am gonna ride this bike
 | [0781-rabbits-in-forest](https://github.com/YuvrajSingh-2006/project/tree/master/0781-rabbits-in-forest) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3360-stone-removal-game](https://github.com/YuvrajSingh-2006/project/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YuvrajSingh-2006/project/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ i am gonna ride this bike
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/YuvrajSingh-2006/project/tree/master/2073-time-needed-to-buy-tickets) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/YuvrajSingh-2006/project/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YuvrajSingh-2006/project/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/YuvrajSingh-2006/project/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YuvrajSingh-2006/project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YuvrajSingh-2006/project/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -105,6 +107,7 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/YuvrajSingh-2006/project/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YuvrajSingh-2006/project/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YuvrajSingh-2006/project/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
@@ -228,4 +231,12 @@ i am gonna ride this bike
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/YuvrajSingh-2006/project/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YuvrajSingh-2006/project/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/YuvrajSingh-2006/project/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
